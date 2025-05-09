@@ -97,6 +97,9 @@
 </script>
 
 <h1 class="text-3xl font-bold">{handle} Profile Page</h1>
+<a href="https://github.com/zeucapua/tanstack-sveltekit-bluesky/blob/main/src/routes/p/%5Bhandle%5D/%2Bpage.svelte" class="flex gap-4 bg-black text-white px-3 py-2 w-fit h-fit">
+	GitHub
+</a>
 
 {#if $profileQuery.isFetching}
 	<p>Loading...</p>

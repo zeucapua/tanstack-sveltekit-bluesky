@@ -209,7 +209,7 @@
 			<h2 class="text-lg italic">Fetch Zeu's profile</h2>
 		</div>
 
-		<a href="https://github.com" class="flex gap-4 bg-black text-white px-3 py-2 w-fit h-fit">
+		<a href="https://github.com/zeucapua/tanstack-sveltekit-bluesky/blob/1252b26abfa49e854cfee3516ccf84d04a9e281e/src/routes/%2Bpage.svelte#L36-L48" class="flex gap-4 bg-black text-white px-3 py-2 w-fit h-fit">
 			GitHub
 		</a>
 	</summary>
@@ -231,7 +231,7 @@
 			<h2 class="text-lg italic">Fetch profile based on given handle</h2>
 		</div>
 
-		<a href="https://github.com" class="flex gap-4 bg-black text-white px-3 py-2 w-fit h-fit">
+		<a href="https://github.com/zeucapua/tanstack-sveltekit-bluesky/blob/1252b26abfa49e854cfee3516ccf84d04a9e281e/src/routes/%2Bpage.svelte#L50-L70" class="flex gap-4 bg-black text-white px-3 py-2 w-fit h-fit">
 			GitHub
 		</a>
 	</summary>
@@ -260,7 +260,7 @@
 			<h2 class="text-lg italic">Fetch the Svelte Feed by Paolo Ricciuti</h2>
 		</div>
 
-		<a href="https://github.com" class="flex gap-4 bg-black text-white px-3 py-2 w-fit h-fit">
+		<a href="https://github.com/zeucapua/tanstack-sveltekit-bluesky/blob/1252b26abfa49e854cfee3516ccf84d04a9e281e/src/routes/%2Bpage.svelte#L72-L98" class="flex gap-4 bg-black text-white px-3 py-2 w-fit h-fit">
 			GitHub
 		</a>
 	</summary>
@@ -295,7 +295,7 @@
 			<h2 class="text-lg italic">Sort, Search, and Select with Infinite Query</h2>
 		</div>
 
-		<a href="https://github.com" class="flex gap-4 bg-black text-white px-3 py-2 w-fit h-fit">
+		<a href="https://github.com/zeucapua/tanstack-sveltekit-bluesky/blob/1252b26abfa49e854cfee3516ccf84d04a9e281e/src/routes/%2Bpage.svelte#L100-L202" class="flex gap-4 bg-black text-white px-3 py-2 w-fit h-fit">
 			GitHub
 		</a>
 	</summary>
